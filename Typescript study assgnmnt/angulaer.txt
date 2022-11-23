@@ -1,0 +1,1016 @@
+import { Component } from "@angular/core";
+
+@Component({
+    selector: 'app-server',
+    template: `<h1> This is my server component</h1>
+    <h1 class="test1" id="test1">This is h2</h1>
+    {{name}}`,
+From Ashvini  Dodake to Everyone 08:22 AM
+yes
+From CODEMIND Technology to Everyone 08:23 AM
+.test1{
+    background-color: aqua;
+}
+
+#test1 {
+    background-color: red;
+}
+
+
+
+
+From Sonali Karande to Everyone 07:02 AM
+good morning sir
+From Shital Patil to Everyone 07:03 AM
+yes
+From Tejaswini Bhosale to Everyone 07:03 AM
+yes
+From Ujjvala Jadhav to Everyone 07:03 AM
+yes sure
+From maya shingne to Everyone 07:03 AM
+yes sir
+From Pradnya Kolase to Everyone 07:03 AM
+yes sir
+From VIDYARANI SARGAR to Everyone 07:03 AM
+good morning sir
+From Me to Everyone 07:03 AM
+yes sir
+From Pradnya Kolase to Everyone 07:03 AM
+full stack
+From Rupali Karmalkar to Everyone 07:03 AM
+full stack
+From Ankita Dounde to Everyone 07:03 AM
+full stack
+From Ujjvala Jadhav to Everyone 07:03 AM
+full stack
+From Sonali Karande to Everyone 07:03 AM
+full stack
+From TEJAL RATHOD to Everyone 07:03 AM
+ful stack
+From Prashant Patil to Everyone 07:03 AM
+full stack
+From Shital Patil to Everyone 07:03 AM
+fullstack developer
+From Prashant Patil to Everyone 07:03 AM
+yes
+From maya shingne to Everyone 07:03 AM
+full stack
+From Tejaswini Bhosale to Everyone 07:04 AM
+full stack
+From Pradnya Kolase to Everyone 07:04 AM
+yes
+From Dollesshh Rathod to Everyone 07:04 AM
+yes
+From Shital Patil to Everyone 07:04 AM
+okay
+From Tejaswini Bhosale to Everyone 07:04 AM
+ok
+From maya shingne to Everyone 07:04 AM
+ok sir
+From Shital Patil to Everyone 07:04 AM
+yes
+From sachin kadam to Everyone 07:04 AM
+ok sir
+From Suhas Lawate to Everyone 07:05 AM
+yes
+From Ujjvala Jadhav to Everyone 07:05 AM
+visible
+From komal Dhone to Everyone 07:05 AM
+yes
+From Prashant Patil to Everyone 07:05 AM
+Yes
+From Rupali Karmalkar to Everyone 07:05 AM
+yes
+From Shital Patil to Everyone 07:05 AM
+is visible
+From Mayuri Bansode to Everyone 07:05 AM
+yes
+From Anuradha Mohan Patil to Everyone 07:05 AM
+yes
+From Daivashala  dhepe to Everyone 07:05 AM
+yes
+From maya shingne to Everyone 07:05 AM
+yes
+From Imran Kazi to Everyone 07:05 AM
+yes
+From Nisha Phadtare to Everyone 07:05 AM
+yes
+From Rahul Ingole to Everyone 07:05 AM
+yes
+From Pooja Jejurkar to Everyone 07:05 AM
+yes
+From Parshuram Rathod to Everyone 07:05 AM
+yes
+From TEJAL RATHOD to Everyone 07:05 AM
+yes
+From kirti sargar to Everyone 07:05 AM
+yes
+From Dipali Rasankar to Everyone 07:05 AM
+yes
+From Anuj Chauhan to Everyone 07:05 AM
+yes
+From Tejaswini Bhosale to Everyone 07:05 AM
+yes
+From Pradnya Kolase to Everyone 07:05 AM
+recording
+From sachin kadam to Everyone 07:05 AM
+start recording
+From Dipali Rasankar to Everyone 07:05 AM
+yes
+From Pradnya Kolase to Everyone 07:05 AM
+welcome
+From sachin kadam to Everyone 07:05 AM
+yes
+From Tejaswini Bhosale to Everyone 07:05 AM
+yes
+From Shital Patil to Everyone 07:05 AM
+ts
+From Daivashala  dhepe to Everyone 07:06 AM
+yes
+From Shital Patil to Everyone 07:06 AM
+src
+From kashinath jeure to Everyone 07:06 AM
+src
+From maya shingne to Everyone 07:06 AM
+yes
+From Ujjvala Jadhav to Everyone 07:06 AM
+src
+From Daivashala  dhepe to Everyone 07:06 AM
+src
+From maya shingne to Everyone 07:06 AM
+src
+From Imran Kazi to Everyone 07:06 AM
+src
+From Pradnya Kolase to Everyone 07:06 AM
+src
+From Tejaswini Bhosale to Everyone 07:06 AM
+src
+From sachin kadam to Everyone 07:06 AM
+yes
+From komal Dhone to Everyone 07:06 AM
+package.json
+From kashinath jeure to Everyone 07:06 AM
+angular.json
+From Ujjvala Jadhav to Everyone 07:06 AM
+pakage.json
+From Prashant Patil to Everyone 07:06 AM
+package.json
+From Sonali Karande to Everyone 07:06 AM
+package.json
+From Pradnya Kolase to Everyone 07:06 AM
+package.json
+From Daivashala  dhepe to Everyone 07:06 AM
+package.json
+From Tejaswini Bhosale to Everyone 07:06 AM
+package.json
+From maya shingne to Everyone 07:07 AM
+package.json
+yes sir
+From Ujjvala Jadhav to Everyone 07:09 AM
+yes
+From Shital Patil to Everyone 07:09 AM
+yes
+From Pradnya Kolase to Everyone 07:09 AM
+yes
+From kashinath jeure to Everyone 07:09 AM
+jit
+From Tejaswini Bhosale to Everyone 07:09 AM
+yes
+From Shital Patil to Everyone 07:09 AM
+jit
+From Pradnya Kolase to Everyone 07:09 AM
+jit
+From Prashant Patil to Everyone 07:09 AM
+yes
+From Tejaswini Bhosale to Everyone 07:09 AM
+jit
+From komal Dhone to Everyone 07:09 AM
+bydefult
+From Ujjvala Jadhav to Everyone 07:10 AM
+index.html
+From Pradnya Kolase to Everyone 07:10 AM
+index
+From komal Dhone to Everyone 07:10 AM
+SPA
+From Pradnya Kolase to Everyone 07:10 AM
+approot
+From Shital Patil to Everyone 07:10 AM
+app-root
+From Ujjvala Jadhav to Everyone 07:10 AM
+yes
+From Pradnya Kolase to Everyone 07:11 AM
+main.ts
+From Shital Patil to Everyone 07:11 AM
+yes
+From Pradnya Kolase to Everyone 07:11 AM
+yes
+From Shital Patil to Everyone 07:11 AM
+AppModule
+From Prashant Patil to Everyone 07:11 AM
+Yes
+From kashinath jeure to Everyone 07:12 AM
+creat a componant
+From komal Dhone to Everyone 07:12 AM
+medata
+From Rahul Ingole to Everyone 07:12 AM
+meta data
+From sachin kadam to Everyone 07:12 AM
+yes
+From Shital Patil to Everyone 07:12 AM
+yes
+From Pradnya Kolase to Everyone 07:12 AM
+@ decoretor
+From Shital Patil to Everyone 07:14 AM
+yes
+okay
+From kashinath jeure to Everyone 07:14 AM
+yes
+From Sonali Karande to Everyone 07:14 AM
+yes
+From sana patel to Everyone 07:14 AM
+yes
+From Pradnya Kolase to Everyone 07:14 AM
+yes
+From Daivashala  dhepe to Everyone 07:14 AM
+ok
+From Prashant Patil to Everyone 07:14 AM
+ok sir
+From Ujjvala Jadhav to Everyone 07:14 AM
+okay
+From Shital Patil to Everyone 07:14 AM
+spec.ts
+From Pradnya Kolase to Everyone 07:14 AM
+yes
+From Ujjvala Jadhav to Everyone 07:14 AM
+yes
+From kashinath jeure to Everyone 07:14 AM
+testing
+From Shital Patil to Everyone 07:14 AM
+testing
+From Pradnya Kolase to Everyone 07:14 AM
+testing
+From Ujjvala Jadhav to Everyone 07:14 AM
+testing
+From Prashant Patil to Everyone 07:14 AM
+testng
+From Anuradha Mohan Patil to Everyone 07:14 AM
+testing
+From sachin kadam to Everyone 07:14 AM
+yes
+From Anuradha Mohan Patil to Everyone 07:15 AM
+component
+From Sonali Karande to Everyone 07:15 AM
+component
+From Shital Patil to Everyone 07:15 AM
+component based
+From Rupali Karmalkar to Everyone 07:15 AM
+yes
+From komal Dhone to Everyone 07:15 AM
+yes
+From sachin kadam to Everyone 07:15 AM
+yes
+From maya shingne to Everyone 07:15 AM
+component
+From Prashant Patil to Everyone 07:15 AM
+yes
+From Tejaswini Bhosale to Everyone 07:15 AM
+yes
+From Shital Patil to Everyone 07:15 AM
+mvc
+From Mamata Yeul to Everyone 07:16 AM
+component based
+From Sonali Karande to Everyone 07:16 AM
+mvc
+From maya shingne to Everyone 07:16 AM
+model
+From Anuradha Mohan Patil to Everyone 07:16 AM
+MVC
+From Prashant Patil to Everyone 07:16 AM
+mvc
+From Latika Bagal to Everyone 07:16 AM
+mvc
+From Ujjvala Jadhav to Everyone 07:17 AM
+uI
+user interface
+From Sonali Karande to Everyone 07:17 AM
+html
+From Pradnya Kolase to Everyone 07:17 AM
+layout
+From Udaysinh Veer to Everyone 07:17 AM
+bunch of code
+From Prashant Patil to Everyone 07:18 AM
+yes
+From Pradnya Kolase to Everyone 07:18 AM
+yes
+From Shital Patil to Everyone 07:18 AM
+yes
+yes
+From Dipali Rasankar to Everyone 07:18 AM
+yes
+From Suhas Lawate to Everyone 07:18 AM
+yes
+From Ujjvala Jadhav to Everyone 07:18 AM
+yes
+From Sonali Karande to Everyone 07:18 AM
+yes
+From Pradnya Kolase to Everyone 07:19 AM
+display none
+From Ujjvala Jadhav to Everyone 07:19 AM
+display none
+From Shital Patil to Everyone 07:19 AM
+display none
+From Sonali Karande to Everyone 07:19 AM
+display none
+From Pradnya Kolase to Everyone 07:19 AM
+hide
+From maya shingne to Everyone 07:19 AM
+display none
+From Ujjvala Jadhav to Everyone 07:19 AM
+modify
+From Prashant Patil to Everyone 07:20 AM
+yes
+From Ujjvala Jadhav to Everyone 07:20 AM
+yes
+From Pradnya Kolase to Everyone 07:20 AM
+yes
+From Shital Patil to Everyone 07:20 AM
+yes
+From Ujjvala Jadhav to Everyone 07:20 AM
+yes
+From Shital Patil to Everyone 07:20 AM
+hidden take space that required
+From Prashant Patil to Everyone 07:21 AM
+it will remove the content as well as space in display none
+From Pooja Jejurkar to Everyone 07:21 AM
+it does not consider the space of that content
+From Mamata Yeul to Everyone 07:21 AM
+diplay none means not take space
+From Sonali Karande to Everyone 07:21 AM
+none:takes space hideen:not take
+From Pradnya Kolase to Everyone 07:21 AM
+none -hide element page like there is nothing
+From Ujjvala Jadhav to Everyone 07:21 AM
+display none hide element with space and data and visibility hidden hide element but take space
+From Shital Patil to Everyone 07:21 AM
+he display the element that there  is nothing the emlement
+From Ujjvala Jadhav to Everyone 07:21 AM
+yes
+From Pooja Jejurkar to Everyone 07:21 AM
+and visible means it consider the space if that content
+From Shital Patil to Everyone 07:22 AM
+yes
+From Mamata Yeul to Everyone 07:22 AM
+yes
+From Pradnya Kolase to Everyone 07:22 AM
+yes
+From kashinath jeure to Everyone 07:22 AM
+yes
+From Shital Patil to Everyone 07:22 AM
+yes
+From Tejaswini Bhosale to Everyone 07:22 AM
+yes'
+From Ujjvala Jadhav to Everyone 07:22 AM
+yes
+From sana patel to Everyone 07:22 AM
+yes
+From Sonali Karande to Everyone 07:22 AM
+yes
+From Rifat Mahat to Everyone 07:22 AM
+yes
+From maya shingne to Everyone 07:22 AM
+yes
+From Pradnya Kolase to Everyone 07:22 AM
+element
+From Ujjvala Jadhav to Everyone 07:22 AM
+okay
+From Shital Patil to Everyone 07:22 AM
+yes
+From Mamata Yeul to Everyone 07:23 AM
+HTML elements= DOM
+From Pradnya Kolase to Everyone 07:23 AM
+dom
+From Shital Patil to Everyone 07:23 AM
+dom
+From Ujjvala Jadhav to Everyone 07:23 AM
+okay
+From Shital Patil to Everyone 07:23 AM
+yes
+From Pradnya Kolase to Everyone 07:25 AM
+yes
+From Shital Patil to Everyone 07:26 AM
+yes
+no
+From Dipali Rasankar to Everyone 07:26 AM
+no
+From sana patel to Everyone 07:26 AM
+no
+From sachin kadam to Everyone 07:26 AM
+no
+From Ujjvala Jadhav to Everyone 07:26 AM
+no
+From komal Dhone to Everyone 07:26 AM
+no
+From Pradnya Kolase to Everyone 07:26 AM
+no
+From Tejaswini Bhosale to Everyone 07:26 AM
+no
+From Udaysinh Veer to Everyone 07:26 AM
+rewrite
+From Ujjvala Jadhav to Everyone 07:26 AM
+yes
+From Prashant Patil to Everyone 07:26 AM
+yes
+From Pradnya Kolase to Everyone 07:26 AM
+yes
+From Ujjvala Jadhav to Everyone 07:28 AM
+then what is difference between model and services
+okay
+ok,got it,thank you
+yes
+From Prashant Patil to Everyone 07:28 AM
+No
+From Ujjvala Jadhav to Everyone 07:28 AM
+no idea
+From Rahul Ingole to Everyone 07:28 AM
+no
+From Pravin Lawate to Everyone 07:28 AM
+yes
+From Pradnya Kolase to Everyone 07:28 AM
+no
+From sachin kadam to Everyone 07:28 AM
+no
+From Anuradha Yuvraj Aldar to Everyone 07:28 AM
+no
+From Mamata Yeul to Everyone 07:28 AM
+no
+From Shital Patil to Everyone 07:28 AM
+no idea
+From Sonali Karande to Everyone 07:28 AM
+no
+From Rupali Karmalkar to Everyone 07:28 AM
+no
+From Tejaswini Bhosale to Everyone 07:29 AM
+no idea
+From Udaysinh Veer to Everyone 07:29 AM
+yes just , listen
+From Shital Patil to Everyone 07:29 AM
+yes
+From Ujjvala Jadhav to Everyone 07:30 AM
+yes
+From Prashant Patil to Everyone 07:31 AM
+yes
+From Daivashala  dhepe to Everyone 07:31 AM
+ok
+From Udaysinh Veer to Everyone 07:32 AM
+API mean URL? is API in the form of URL?
+From Ujjvala Jadhav to Everyone 07:33 AM
+is it realated to curd operations
+yes
+From Udaysinh Veer to Everyone 07:33 AM
+yes
+From Prashant Patil to Everyone 07:33 AM
+Yes
+From Suhas Lawate to Everyone 07:33 AM
+yes
+From sana patel to Everyone 07:33 AM
+yes
+From Sonali Karande to Everyone 07:33 AM
+yes
+From Ujjvala Jadhav to Everyone 07:33 AM
+yes
+From Tejaswini Bhosale to Everyone 07:33 AM
+yes
+From Udaysinh Veer to Everyone 07:34 AM
+we can book one bus ticket from different different  website
+From Shital Patil to Everyone 07:34 AM
+yes
+From Ujjvala Jadhav to Everyone 07:34 AM
+yes
+From Pradnya Kolase to Everyone 07:34 AM
+yes
+From Mamata Yeul to Everyone 07:34 AM
+yes
+From Tejaswini Bhosale to Everyone 07:34 AM
+yes
+From Shital Patil to Everyone 07:34 AM
+yes
+From sana patel to Everyone 07:34 AM
+yes
+From Ujjvala Jadhav to Everyone 07:34 AM
+yes
+From Prashant Patil to Everyone 07:34 AM
+Yes
+From Daivashala  dhepe to Everyone 07:34 AM
+yes
+From Sonali Karande to Everyone 07:34 AM
+yes
+From Pradnya Kolase to Everyone 07:34 AM
+yes
+From komal Dhone to Everyone 07:34 AM
+yes
+From Dipali Rasankar to Everyone 07:34 AM
+yes
+From Ankita Dounde to Everyone 07:34 AM
+yes
+From kirti sargar to Everyone 07:34 AM
+yes
+From Dipali Pawar to Everyone 07:34 AM
+yes
+From Ujjvala Jadhav to Everyone 07:34 AM
+api
+From Suhas Lawate to Everyone 07:34 AM
+API
+From Sonali Karande to Everyone 07:34 AM
+api
+From Pradnya Kolase to Everyone 07:34 AM
+api se
+From Mamata Yeul to Everyone 07:34 AM
+API
+From Shital Patil to Everyone 07:35 AM
+same API consumed by both application
+From Pradnya Kolase to Everyone 07:35 AM
+ok
+From Tejaswini Bhosale to Everyone 07:35 AM
+ok
+From Ujjvala Jadhav to Everyone 07:35 AM
+okay
+From sachin kadam to Everyone 07:36 AM
+no
+From komal Dhone to Everyone 07:36 AM
+no
+From Pradnya Kolase to Everyone 07:36 AM
+no
+From Rupali Karmalkar to Everyone 07:36 AM
+no
+From Suhas Lawate to Everyone 07:36 AM
+no
+From Mamata Yeul to Everyone 07:36 AM
+no
+From Udaysinh Veer to Everyone 07:36 AM
+no idea
+From Sonali Karande to Everyone 07:36 AM
+no
+From Prashant Patil to Everyone 07:36 AM
+no
+From Anuj Chauhan to Everyone 07:36 AM
+no
+From kirti sargar to Everyone 07:36 AM
+no
+From Tejaswini Bhosale to Everyone 07:36 AM
+no
+From Dipali Rasankar to Everyone 07:36 AM
+no
+From Udaysinh Veer to Everyone 07:36 AM
+no
+From Anuradha Yuvraj Aldar to Everyone 07:36 AM
+no
+From sachin kadam to Everyone 07:36 AM
+no
+From Suhas Lawate to Everyone 07:36 AM
+no
+From Rupali Karmalkar to Everyone 07:36 AM
+no
+From Prashant Patil to Everyone 07:36 AM
+no
+From Ankita Dounde to Everyone 07:36 AM
+no
+From Sonali Karande to Everyone 07:36 AM
+no
+From Shital Patil to Everyone 07:37 AM
+yes
+From Sonali Karande to Everyone 07:37 AM
+yes
+From Pradnya Kolase to Everyone 07:37 AM
+yes
+From maya shingne to Everyone 07:37 AM
+yes
+From Pooja Jejurkar to Everyone 07:37 AM
+yes
+From Shital Patil to Everyone 07:38 AM
+reusability
+From Ujjvala Jadhav to Everyone 07:38 AM
+code redendency
+From Prashant Patil to Everyone 07:38 AM
+Yes
+From Shital Patil to Everyone 07:38 AM
+memory optimization
+From Ujjvala Jadhav to Everyone 07:39 AM
+yes
+From kashinath jeure to Everyone 07:39 AM
+app
+From Shital Patil to Everyone 07:39 AM
+AppComponent
+decorator
+From Ujjvala Jadhav to Everyone 07:40 AM
+yes
+From Shital Patil to Everyone 07:40 AM
+component
+From Ujjvala Jadhav to Everyone 07:41 AM
+okay
+From Pradnya Kolase to Everyone 07:41 AM
+yes
+ts
+From Shital Patil to Everyone 07:41 AM
+yes
+From Ujjvala Jadhav to Everyone 07:41 AM
+yes
+From Pradnya Kolase to Everyone 07:42 AM
+yes
+From Sonali Karande to Everyone 07:43 AM
+yes
+From Shital Patil to Everyone 07:43 AM
+yes
+From Ujjvala Jadhav to Everyone 07:43 AM
+yes
+From Dipali Rasankar to Everyone 07:43 AM
+yes
+From Shital Patil to Everyone 07:45 AM
+yes
+From Ujjvala Jadhav to Everyone 07:45 AM
+yes
+From Shital Patil to Everyone 07:45 AM
+yes
+From Pradnya Kolase to Everyone 07:45 AM
+yes
+From Prashant Patil to Everyone 07:45 AM
+Yes
+From Shital Patil to Everyone 07:45 AM
+yes
+From Pradnya Kolase to Everyone 07:45 AM
+ok
+From Shital Patil to Everyone 07:46 AM
+decorator
+From Pradnya Kolase to Everyone 07:46 AM
+@
+From Shital Patil to Everyone 07:46 AM
+angular/core
+From Prashant Patil to Everyone 07:46 AM
+yes
+From Ujjvala Jadhav to Everyone 07:46 AM
+yes
+From Anuradha Mohan Patil to Everyone 07:46 AM
+yes
+From Pradnya Kolase to Everyone 07:46 AM
+yes
+From komal Dhone to Everyone 07:46 AM
+yes
+From kirti sargar to Everyone 07:46 AM
+yes
+From Mamata Yeul to Everyone 07:46 AM
+yes
+From Tejaswini Bhosale to Everyone 07:46 AM
+yes
+From Shital Patil to Everyone 07:47 AM
+yes
+From maya shingne to Everyone 07:47 AM
+yes
+From Shital Patil to Everyone 07:49 AM
+templateurl
+styleurl
+css
+yes
+From komal Dhone to Everyone 07:49 AM
+yes
+From Ujjvala Jadhav to Everyone 07:49 AM
+yes
+From Mamata Yeul to Everyone 07:51 AM
+can we do the same procedure
+ok
+From komal Dhone to Everyone 07:53 AM
+app.component.html
+From Ujjvala Jadhav to Everyone 07:53 AM
+yes
+From Shital Patil to Everyone 07:53 AM
+yes
+From Tejaswini Bhosale to Everyone 07:54 AM
+yes
+From kirti sargar to Everyone 07:54 AM
+yes
+From Ujjvala Jadhav to Everyone 07:54 AM
+module madhe component add kele nahi
+From Rahul Ingole to Everyone 07:54 AM
+declarations
+From Ujjvala Jadhav to Everyone 07:55 AM
+@ngModule
+From Shital Patil to Everyone 07:55 AM
+yes
+import
+From Ujjvala Jadhav to Everyone 07:56 AM
+import
+okay
+From Shital Patil to Everyone 07:56 AM
+yes
+From Ujjvala Jadhav to Everyone 07:56 AM
+yes
+From Prashant Patil to Everyone 07:56 AM
+Yes
+From Rupali Karmalkar to Everyone 07:56 AM
+yes
+From Tejaswini Bhosale to Everyone 07:56 AM
+yes
+From Dipali Rasankar to Everyone 07:56 AM
+yes
+From Ankita Dounde to Everyone 07:56 AM
+yes
+From Udaysinh Veer to Everyone 07:56 AM
+yes
+From Ujjvala Jadhav to Everyone 07:57 AM
+yes
+yes
+From Shital Patil to Everyone 07:57 AM
+yes
+From Tejaswini Bhosale to Everyone 07:57 AM
+yes
+From kirti sargar to Everyone 07:57 AM
+yes
+From Pradnya Kolase to Everyone 07:57 AM
+ok
+From Tejaswini Bhosale to Everyone 07:57 AM
+ok
+From Pooja Waghmode to Everyone 07:57 AM
+yes
+From Shital Patil to Everyone 07:57 AM
+reuse
+From Dipali Pawar to Everyone 07:57 AM
+yes
+From Prashant Patil to Everyone 07:58 AM
+Yes
+From Ujjvala Jadhav to Everyone 07:58 AM
+okay
+yes
+From Shital Patil to Everyone 07:58 AM
+yes
+From Pradnya Kolase to Everyone 07:59 AM
+ok
+From kashinath jeure to Everyone 07:59 AM
+yes
+From Shital Patil to Everyone 07:59 AM
+yes
+From Ujjvala Jadhav to Everyone 07:59 AM
+okay
+yes
+From kashinath jeure to Everyone 08:00 AM
+create the seprate html page
+From Pradnya Kolase to Everyone 08:00 AM
+template url
+From Ujjvala Jadhav to Everyone 08:00 AM
+okay
+From Prashant Patil to Everyone 08:00 AM
+yes backtick
+From Shital Patil to Everyone 08:00 AM
+yes
+From Pradnya Kolase to Everyone 08:00 AM
+ok
+From Tejaswini Bhosale to Everyone 08:00 AM
+ok
+From Ujjvala Jadhav to Everyone 08:00 AM
+yes
+From Dipali Rasankar to Everyone 08:01 AM
+yes
+From Dipali Pawar to Everyone 08:01 AM
+ok
+From Shital Patil to Everyone 08:02 AM
+templateurl
+From Ujjvala Jadhav to Everyone 08:02 AM
+templateurl
+From Dipali Rasankar to Everyone 08:03 AM
+template url
+From Ujjvala Jadhav to Everyone 08:03 AM
+okay
+From Pradnya Kolase to Everyone 08:03 AM
+sir please explain once again
+From Anuradha Yuvraj Aldar to Everyone 08:04 AM
+sir repeat once
+From Ujjvala Jadhav to Everyone 08:05 AM
+yes
+From Shital Patil to Everyone 08:05 AM
+yes
+From komal Dhone to Everyone 08:06 AM
+yes
+From Pradnya Kolase to Everyone 08:07 AM
+yes
+ok
+From Ujjvala Jadhav to Everyone 08:07 AM
+yes
+From Pradnya Kolase to Everyone 08:07 AM
+got it sir
+From Shital Patil to Everyone 08:08 AM
+yes
+From Ujjvala Jadhav to Everyone 08:08 AM
+yes
+From Pradnya Kolase to Everyone 08:09 AM
+ok
+From Me to Everyone 08:09 AM
+ok
+From Ujjvala Jadhav to Everyone 08:09 AM
+okay,got it
+From Shital Patil to Everyone 08:10 AM
+decorator
+From Pradnya Kolase to Everyone 08:11 AM
+ok
+any where we can use it that component
+From Prashant Patil to Everyone 08:12 AM
+mean if we want to display something  we need to add component always
+ok sir
+understood
+From Pradnya Kolase to Everyone 08:12 AM
+ok
+From Shital Patil to Everyone 08:14 AM
+yes
+yes
+From Ujjvala Jadhav to Everyone 08:14 AM
+yes
+From Shital Patil to Everyone 08:15 AM
+proceed
+From maya shingne to Everyone 08:15 AM
+yes
+From sonali milke to Everyone 08:15 AM
+ok
+From komal Dhone to Everyone 08:15 AM
+ok
+From kirti sargar to Everyone 08:15 AM
+yes
+From Prashant Patil to Everyone 08:15 AM
+yes sir
+From Pradnya Kolase to Everyone 08:15 AM
+ok sir
+From Ujjvala Jadhav to Everyone 08:16 AM
+okay
+yes
+From kashinath jeure to Everyone 08:16 AM
+yes
+From Dipali Rasankar to Everyone 08:16 AM
+yes
+From Rahul Ingole to Everyone 08:16 AM
+yes
+From sonali milke to Everyone 08:16 AM
+yes
+From Pradnya Kolase to Everyone 08:16 AM
+yes sir
+From komal Dhone to Everyone 08:16 AM
+yes
+From Anuradha Mohan Patil to Everyone 08:16 AM
+yes
+From Me to Everyone 08:16 AM
+yes
+From Pradnya Kolase to Everyone 08:16 AM
+yes
+From Dipali Rasankar to Everyone 08:16 AM
+yes
+From sachin sarasambi to Everyone 08:16 AM
+yes
+From sana patel to Everyone 08:17 AM
+class
+From Ujjvala Jadhav to Everyone 08:17 AM
+in css file
+From Anuradha Mohan Patil to Everyone 08:17 AM
+h1{}
+From Anuj Chauhan to Everyone 08:17 AM
+h1
+From Prashant Patil to Everyone 08:17 AM
+directly h1;{}
+From sana patel to Everyone 08:17 AM
+element selector
+h1
+From sonali milke to Everyone 08:17 AM
+h1{bkcolor:red}
+From Dollesshh Rathod to Everyone 08:17 AM
+yes
+From Shital Patil to Everyone 08:17 AM
+h1{ bacgroundColor:red}
+From Pradnya Kolase to Everyone 08:18 AM
+class
+test1
+From Ujjvala Jadhav to Everyone 08:19 AM
+yes
+From komal Dhone to Everyone 08:19 AM
+.yes
+From Rupali Karmalkar to Everyone 08:19 AM
+yes
+From Shital Patil to Everyone 08:19 AM
+yes
+From Pradnya Kolase to Everyone 08:19 AM
+yes
+From Daivashala  dhepe to Everyone 08:19 AM
+yes
+From Anuradha Mohan Patil to Everyone 08:19 AM
+yes
+From Ankita Dounde to Everyone 08:19 AM
+yes
+From sonali milke to Everyone 08:19 AM
+yes
+From Dollesshh Rathod to Everyone 08:19 AM
+yes
+From Pooja Jejurkar to Everyone 08:19 AM
+yes
+From Dipali Pawar to Everyone 08:19 AM
+yes
+From Akshay palase to Everyone 08:19 AM
+yes
+From sana patel to Everyone 08:19 AM
+yes
+From Shital Patil to Everyone 08:19 AM
+yes
+From Anuradha Yuvraj Aldar to Everyone 08:19 AM
+yesd
+From Tejaswini Bhosale to Everyone 08:19 AM
+yes
+From maya shingne to Everyone 08:19 AM
+yes
+From Pradnya Kolase to Everyone 08:20 AM
+unique element sati id
+From Ujjvala Jadhav to Everyone 08:20 AM
+red
+From Dada Kashid to Everyone 08:20 AM
+red
+From sonali milke to Everyone 08:20 AM
+red
+From Pradnya Kolase to Everyone 08:20 AM
+red
+From Nisha phadtare to Everyone 08:20 AM
+red
+From Tejaswini Bhosale to Everyone 08:20 AM
+red
+From sonali milke to Everyone 08:20 AM
+overde
+From maya shingne to Everyone 08:20 AM
+red
+From Pradnya Kolase to Everyone 08:20 AM
+selector
+From Ujjvala Jadhav to Everyone 08:21 AM
+property binding
+From Dollesshh Rathod to Everyone 08:21 AM
+yes
+From Ujjvala Jadhav to Everyone 08:21 AM
+okay
+From Pradnya Kolase to Everyone 08:21 AM
+ok
+From Dipali Pawar to Everyone 08:21 AM
+ok
+From Pradnya Kolase to Everyone 08:21 AM
+particular element ke liya
+From sonali milke to Everyone 08:21 AM
+yes
+From Udaysinh Veer to Everyone 08:22 AM
+yes
+From komal Dhone to Everyone 08:22 AM
+yes
+From Prashant Patil to Everyone 08:22 AM
+yes
+From Mamata Yeul to Everyone 08:22 AM
+yes sir
+From CODEMIND Technology to Everyone 08:22 AM
+import { Component } from "@angular/core";
+
+@Component({
+    selector: 'app-server',
+    template: `<h1> This is my server component</h1>
+    <h1 class="test1" id="test1">This is h2</h1>
+    {{name}}`,
+    styleUrls: ['./server.component.css']
+})
+export class ServerComponent{
+
+    name: string = 'Codemind';
+
+}
+From Ashvini  Dodake to Everyone 08:22 AM
+yes
+From CODEMIND Technology to Everyone 08:23 AM
+.test1{
+    background-color: aqua;
+}
+
+#test1 {
+    background-color: red;
+}
+From Suhas Lawate to Everyone 08:24 AM
+done
+From Shital Patil to Everyone 08:25 AM
+confim once which shortcut-key used for importing Servercomponent
+From Daivashala  dhepe to Everyone 08:25 AM
+done
+From Ujjvala Jadhav to Everyone 08:25 AM
+done
+From Shital Patil to Everyone 08:27 AM
+done
+From Shubham Kandelkar to Everyone 08:27 AM
+done
+From Pradnya Kolase to Everyone 08:28 AM
+done
+From sachin kadam to Everyone 08:28 AM
+done
+From Kapil Jundale to Everyone 08:28 AM
+done
+From Akshay palase to Everyone 08:28 AM
+done
+From Shital Patil to Everyone 08:29 AM
+AppComponent nantr ,
+missing
+From Daivashala  dhepe to Everyone 08:30 AM
+missing ,
+From Prashant Patil to Everyone 08:31 AM
+done sir
+app-server
+From sonali milke to Everyone 08:31 AM
+done
